@@ -1,0 +1,9 @@
+langchain_openai
+langchain_core
+langchain_community
+langchain-tavily
+openai
+jupyterlab
+langgraph
+langgraph-prebuilt
+langgraph-cli[inmem]

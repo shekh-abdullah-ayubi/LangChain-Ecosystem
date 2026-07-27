@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+# Langgraph dependencies
+langgraph/__pycache__/
+.langgraph_api
+
+
 # Distribution / packaging
 .Python
 build/
