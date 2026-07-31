@@ -13,8 +13,8 @@ graph TD
     A[1. simple-graph.ipynb] --> B[2. chain.ipynb]
     B --> C[3. router.ipynb]
     C --> D[4. agent.ipynb]
-    D --> E[5. agent-memory.ipynb]
-    E --> F[6. deployment.ipynb]
+    D --> E[5. agent-memory]
+    E --> F[6. deployment]
     F --> G[7. studio/ Directory]
     style A fill:#4CAF50,stroke:#333,stroke-width:2px,color:#fff
     style D fill:#2196F3,stroke:#333,stroke-width:2px,color:#fff
